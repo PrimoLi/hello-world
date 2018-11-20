@@ -3,6 +3,6 @@ Just another repository
 
 Hi Humans!
 
-Primo Li just decided to learn GitHub.
+Primo Li just began to learn GitHub.
 KEEP CALM & MAY THE FORCE BE WITH YOU.
 
